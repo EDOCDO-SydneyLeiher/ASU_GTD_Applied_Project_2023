@@ -48,5 +48,5 @@ Feel free to explore the code and dashboards to gain insights into the progress 
 - [Sydney Leiher]
 
 ## Sources
-[United Nations](https://sdgs.un.org/goals)
-[UNESCO](https://en.unesco.org/sustainabledevelopmentgoals)
+-[United Nations](https://sdgs.un.org/goals)
+-[UNESCO](https://en.unesco.org/sustainabledevelopmentgoals)
