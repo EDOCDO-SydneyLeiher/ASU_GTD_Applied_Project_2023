@@ -1,5 +1,4 @@
 # ASU_GTD_Applied_Project_2023
-# UN SDG 4 Indicator Data Analysis
 
 This repository contains the code and analysis for processing UN SDG 4 indicator data for creating Tableau dashboards.
 
