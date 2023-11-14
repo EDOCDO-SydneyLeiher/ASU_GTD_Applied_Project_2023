@@ -8,6 +8,8 @@ The United Nations Sustainable Development Goal 4 (SDG 4) focuses on ensuring in
 
 In this project, I utilize Python to analyze and clean the SDG 4 indicator data. The cleaned data is then used to create a series of informative Tableau dashboards for a more visual representation of the education indicators.
 
+All UN SDG indicator data is from the [United Nations Data Portal](https://unstats.un.org/sdgs/dataportal/database)
+
 ## Data Cleaning Process
 
 I start by loading the indicator data from an Excel file into a pandas DataFrame. The data is then filtered to include only specific countries of interest within the SDG 4 framework. Columns with all NaN values are dropped, and a subset of relevant columns is selected.
