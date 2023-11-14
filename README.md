@@ -23,7 +23,7 @@ The resulting cleaned and filtered dataset is then exported to a CSV file for fu
 The cleaned data serves as the foundation for creating Tableau dashboards that provide a visual representation of the SDG 4 indicator trends. These dashboards offer an interactive and dynamic way to explore and understand the educational landscape across the Middle East and North Afria region.
 
 Explore the visual representation of the SDG 4 indicator trends through Tableau dashboards:
-- [Tableau Dashboard 1]([https://your-tableau-dashboard-url-1](https://public.tableau.com/views/ASUGTDFinalProject-UNSDG4/Coverpage?:language=en-US&:display_count=n&:origin=viz_share_link))
+- [Tableau Dashboard 1](https://public.tableau.com/views/ASUGTDFinalProject-UNSDG4/Coverpage?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Usage
 
