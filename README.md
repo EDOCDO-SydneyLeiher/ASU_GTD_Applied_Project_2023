@@ -7,7 +7,7 @@ This repository contains the code and analysis for processing UN SDG 4 indicator
 The United Nations Sustainable Development Goal 4 (SDG 4) focuses on ensuring inclusive and equitable quality education for all. The indicator data associated with SDG 4 provides valuable insights into the progress and challenges related to education globally.
 
 SDG #4 aims to ensure inclusive and equitable quality education for all, promoting lifelong learning opportunities and fostering education that contributes to sustainable development (United Nations, 2023). 
-All UN SDG indicator data is from the [World Health Organization Data Portal]([https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/data-export])
+All UN SDG indicator data is from the [World Health Organization Data Portal](https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/data-export).
 
 ## Objective
 
