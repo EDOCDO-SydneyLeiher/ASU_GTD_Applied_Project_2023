@@ -40,7 +40,7 @@ Percentage Point Change Calculation: The percentage point change between base an
 The cleaned data serves as the foundation for creating Tableau dashboards that provide a visual representation of the SDG 4 indicator trends. These dashboards offer an interactive and dynamic way to explore and understand the educational landscape across the EMRO region.
 
 Explore the visual representation of the SDG 4 indicator trends through Tableau dashboards:
-- [Tableau Dashboard UN SDG #4](https://public.tableau.com/views/ASUGTDFinalProject-UNSDG4/Coverpage?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Tableau Dashboard UN SDG #4](https://public.tableau.com/views/ASUGTDFinalProject-UNSDG4/Coverpage?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Usage
 
