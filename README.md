@@ -46,11 +46,11 @@ Explore the visual representation of the SDG 4 indicator trends through Tableau 
 
 1. **Data Cleaning and Analysis:**
    - The Python script (`Indicator Data Transformations.ipynb`) provided in this repository is used to clean and analyze the SDG 4 indicator data for all EMRO countries.
-   - The Python script ('4.1, 4.2, 4.3 World Averages') provided in this repository is used to clean and analyse all countries data.
+   - The Python script (4.1, 4.2, 4.3 World Wide Averages.ipynb) provided in this repository is used to clean and analyse all countries data.
    - Make sure to have the required libraries installed (`pandas`).
 
 2. **Tableau Dashboards:**
-   - The cleaned dataset (example `output_4.1.csv`) can be imported into Tableau for creating customized dashboards.
+   - The cleaned dataset (example `4.1_output.csv`) can be imported into Tableau for creating customized dashboards.
    - Utilize the processed data to visualize and analyze trends related to education indicators.
 
 Feel free to explore the code and dashboards to gain insights into the progress and challenges associated with SDG 4.
