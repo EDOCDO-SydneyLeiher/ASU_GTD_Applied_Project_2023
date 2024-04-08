@@ -33,7 +33,7 @@ Base and Recent Years Determination: The script determines the base and most rec
 
 Merge Data: The original DataFrame df is merged with base_recent_years_df to obtain values for base and recent years. This merged DataFrame is stored as merged_df.
 
-Percentage Point Change Calculation: The percentage point change between base and recent years is calculated for each country, sex, education level, and type of skill. The result is stored in a DataFrame named percentage_change_df.
+Percentage Point Change Calculation: The percentage point change between base and recent years is calculated for each country, sex, and selected subgroups. The result is stored in a DataFrame named percentage_change_df.
 
 ## Tableau Dashboards
 
